@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
